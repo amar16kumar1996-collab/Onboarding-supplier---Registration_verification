@@ -4,7 +4,7 @@ Registration Verification System for supplier onboarding to our quality system.
 
 # Registration Verification System (Python)
 
-A simple Python-based registration validation project used to verify user details during registration of onboarding suppliers to our datasource.
+A simple Python-based registration validation project used to verify user details during onboarding suppliers to our datasource.
 
 This project demonstrates:
 - User input validation
